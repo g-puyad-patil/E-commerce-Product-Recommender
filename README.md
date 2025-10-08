@@ -89,7 +89,7 @@ Here’s a visual comparison of the three recommendation approaches:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recommender-system.git
+   git clone https://github.com/g-puyad-patil/recommender-system.git
    cd recommender-system
    ```
 
