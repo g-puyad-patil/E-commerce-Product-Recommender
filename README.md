@@ -79,7 +79,6 @@ Here’s a visual comparison of the three recommendation approaches:
 ```
 ├── recommender-system.ipynb  # Jupyter notebook containing the project code
 ├── data/                     # Directory for datasets
-├── models/                   # Saved models
 ├── images/                   # Directory for images used in the README
 ├── README.md                 # Project documentation (this file)
 └── requirements.txt          # Dependencies for the project
