@@ -89,7 +89,7 @@ Here’s a visual comparison of the three recommendation approaches:
 1. Clone the repository:
    ```bash
    git clone https://github.com/g-puyad-patil/E-commerce-Product-Recommender.git
-   cd recommender-system
+   cd E-commerce-Product-Recommender
    ```
 
 2. Install the required dependencies:
